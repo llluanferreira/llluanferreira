@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llluanferreira&label=Profile%20views&color=0e75b6&style=flat" alt="llluanferreira" /> </p>
 
-- 💬 Ask me about **Hey! I'm Luan Ferreira, an Information Systems student at UniSales. My passion for technology began with curiosity about how websites and applications work**
+- 💬 Um pouco sobre mim **Hey! I'm Luan Ferreira, an Information Systems student at UniSales. My passion for technology began with curiosity about how websites and applications work**
 
-- 📫 How to reach me **luanfrodrigues70@gmail.com**
+- 📫 Entre em contato **luanfrodrigues70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
