@@ -1,5 +1,7 @@
-<h1 align="center">Hello, I'm Luan Ferreira</h1>
-<h3 align="center">Hey! I'm Luan Ferreira, an Information Systems student at UniSales. My passion for technology began with curiosity about how websites and applications work</h3>
+<h1 align="center">Olá!!</h1>
+<h3 align="center">Meu nome é Luan Ferreira, tenho 20 anos e sou estudante de Sistemas de Informação no Centro Universitário Salesiano. Sou apaixonado por tecnologia e desenvolvimento web, e atualmente estou focado em ferramentas como HTML, CSS, JavaScript, PHP, React Native e Bootstrap.
+
+Meu objetivo é me desenvolver ao máximo como profissional, começando como desenvolvedor front-end, mas com a ambição de, quem sabe, me tornar um desenvolvedor full-stack no futuro. Acredito que dedicação, aprendizado contínuo e a vontade de resolver problemas são essenciais para alcançar esse sonho.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llluanferreira&label=Profile%20views&color=0e75b6&style=flat" alt="llluanferreira" /> </p>
 
@@ -12,6 +14,22 @@
 </p>
 
 <h3 align="left">Linguagens:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
+    </a> 
+</p>
+
+<p align="left"> 
+    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
+    </a> 
+</p>
+
+<p align="left"> 
+    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=llluanferreira&show_icons=true&locale=en" alt="llluanferreira" /></p>
