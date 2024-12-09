@@ -14,22 +14,18 @@ Meu objetivo é me desenvolver ao máximo como profissional, começando como des
 </p>
 
 <h3 align="left">Linguagens:</h3>
-<p align="left"> 
+<p align="left" style="display: flex; gap: 10px;"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
     </a> 
-</p>
-
-<p align="left"> 
     <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
     </a> 
-</p>
-
-<p align="left"> 
     <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
+</p>
+
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=llluanferreira&show_icons=true&locale=en" alt="llluanferreira" /></p>
